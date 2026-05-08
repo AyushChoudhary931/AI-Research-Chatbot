@@ -12,20 +12,6 @@ def render_home():
 
     st.title("🔍 AI Research Agent")
 
-    # st.markdown("""
-    # <div class="report-box">
-
-    # <h3>AI-Powered Multi-Agent Research System</h3>
-
-    # <p>
-    # Perform deep research using autonomous AI agents powered by
-    # LangGraph, OpenAI, Tavily Search, SQLite memory,
-    # and LangSmith observability.
-    # </p>
-
-    # </div>
-    # """, unsafe_allow_html=True)
-
     # EXPLAINER
     with st.expander("⚙ How it works"):
 
