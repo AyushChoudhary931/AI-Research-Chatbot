@@ -4,4 +4,4 @@ enableCORS = false
 enableXsrfProtection = false
 
 [browser]
-gatherUsageStats = falsegit commit -m "fix streamlit render issue"
+gatherUsageStats = false
